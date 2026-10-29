@@ -1,0 +1,7 @@
+#ifndef ANOMALY_CONFIG_H
+#define ANOMALY_CONFIG_H
+
+#define ANOMALY_Z_THRESHOLD 3.0f
+#define CONFIDENCE_THRESHOLD 0.55f
+
+#endif
